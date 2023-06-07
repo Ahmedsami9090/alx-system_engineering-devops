@@ -1,3 +1,2 @@
-#!/bin/bash
-pwd
+#this is the main heading.
 
